@@ -10,9 +10,10 @@
 2. รันคำสั่งด้านล่างเพื่อติดตั้งระบบทดสอบ (Jest):
 ```bash
 npm install
-
+```
 
 ---
 ##การทดสอบระบบ (Running Tests)
 ```bash
 npm test
+```
